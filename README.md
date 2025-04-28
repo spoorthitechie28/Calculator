@@ -7,8 +7,8 @@ A basic calculator built using **HTML**, **CSS**, and **JavaScript**. It perform
 ## 🖥️ Demo
 
 You can try it live here:  
-➡️ [https://your-username.github.io/calculator](https://your-username.github.io/calculator)  
-*(Replace `your-username` with your actual GitHub username)*
+➡️ [https://spoorthitechie28.github.io/calculator] 
+
 
 ---
 
@@ -26,13 +26,6 @@ You can try it live here:
 - HTML5
 - CSS3
 - JavaScript
-
----
-
-## 📸 Screenshot
-
-![Calculator Screenshot](screenshot.png)  
-*(You can add your own screenshot image and update the file name)*
 
 ---
 
