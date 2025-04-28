@@ -33,4 +33,4 @@ You can try it live here:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/spoorthitechie28/calculator.git
